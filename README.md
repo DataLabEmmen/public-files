@@ -13,3 +13,5 @@ https://raw.githubusercontent.com/DataLabEmmen/public-files/refs/heads/main/dren
 <h3>Nederland</h3>
 <p>Nederland gemeenten:<br />
 https://raw.githubusercontent.com/DataLabEmmen/public-files/refs/heads/main/nederland_gemeenten.geojson
+<p>Nederland provincies:<br />
+https://raw.githubusercontent.com/DataLabEmmen/public-files/refs/heads/main/nederland_provincies.geojson
