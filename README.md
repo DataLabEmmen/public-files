@@ -10,3 +10,6 @@ https://raw.githubusercontent.com/DataLabEmmen/public-files/refs/heads/main/emme
 https://raw.githubusercontent.com/DataLabEmmen/public-files/refs/heads/main/drenthe_buurten.geojson</p>
 <p>Drenthe wijken:<br />
 https://raw.githubusercontent.com/DataLabEmmen/public-files/refs/heads/main/drenthe_wijken.geojson</p>
+<h3>Nederland</h3>
+<p>Nederland gemeenten:<br />
+https://raw.githubusercontent.com/DataLabEmmen/public-files/refs/heads/main/nederland_gemeenten.geojson
